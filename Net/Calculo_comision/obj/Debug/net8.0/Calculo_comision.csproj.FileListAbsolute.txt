@@ -1,0 +1,14 @@
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\bin\Debug\net8.0\Calculo_comision.exe
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\bin\Debug\net8.0\Calculo_comision.deps.json
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\bin\Debug\net8.0\Calculo_comision.runtimeconfig.json
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\bin\Debug\net8.0\Calculo_comision.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\bin\Debug\net8.0\Calculo_comision.pdb
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\Calculo_comision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\Calculo_comision.AssemblyInfoInputs.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\Calculo_comision.AssemblyInfo.cs
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\Calculo_comision.csproj.CoreCompileInputs.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\Calculo_comision.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\refint\Calculo_comision.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\Calculo_comision.pdb
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\Calculo_comision.genruntimeconfig.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Calculo_comision\obj\Debug\net8.0\ref\Calculo_comision.dll

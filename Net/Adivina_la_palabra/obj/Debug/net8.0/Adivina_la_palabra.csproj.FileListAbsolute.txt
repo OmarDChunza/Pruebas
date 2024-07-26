@@ -1,0 +1,14 @@
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\bin\Debug\net8.0\Adivina_la_palabra.exe
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\bin\Debug\net8.0\Adivina_la_palabra.deps.json
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\bin\Debug\net8.0\Adivina_la_palabra.runtimeconfig.json
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\bin\Debug\net8.0\Adivina_la_palabra.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\bin\Debug\net8.0\Adivina_la_palabra.pdb
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\Adivina_la_palabra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\Adivina_la_palabra.AssemblyInfoInputs.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\Adivina_la_palabra.AssemblyInfo.cs
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\Adivina_la_palabra.csproj.CoreCompileInputs.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\Adivina_la_palabra.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\refint\Adivina_la_palabra.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\Adivina_la_palabra.pdb
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\Adivina_la_palabra.genruntimeconfig.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Adivina_la_palabra\obj\Debug\net8.0\ref\Adivina_la_palabra.dll

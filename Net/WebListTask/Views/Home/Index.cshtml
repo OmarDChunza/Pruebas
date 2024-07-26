@@ -1,0 +1,56 @@
+﻿@page
+@model WebListTask.Pages.Tareas.IndexModel
+@{
+    ViewData["Title"] = "Lista de Tareas";
+}
+
+<h1>Lista de Tareas</h1>
+
+<form method="get">
+    <p>
+        Buscar: <input type="text" name="SearchString" value="@Model.SearchString" />
+        <input type="submit" value="Buscar" />
+    </p>
+</form>
+
+<p>
+    <a class="btn btn-primary" asp-page="Create">Crear Nueva Tarea</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tareas[0].Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tareas[0].Completada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tareas[0].FechaCreacion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Tareas)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Completada)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaCreacion)
+                </td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-page="Details" asp-route-id="@item.Id">Detalles</a> |
+                    <a asp-page="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

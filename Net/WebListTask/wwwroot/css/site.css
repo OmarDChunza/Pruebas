@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f8ff; /* Color de fondo */
+}
+
+h1 {
+    color: #007bff; /* Color de los títulos */
+}
+
+.btn-primary {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: rgba(0, 123, 255, 0.1); /* Color de las filas impares */
+}

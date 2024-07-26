@@ -1,0 +1,14 @@
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\bin\Debug\net8.0\Informes.exe
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\bin\Debug\net8.0\Informes.deps.json
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\bin\Debug\net8.0\Informes.runtimeconfig.json
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\bin\Debug\net8.0\Informes.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\bin\Debug\net8.0\Informes.pdb
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\Informes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\Informes.AssemblyInfoInputs.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\Informes.AssemblyInfo.cs
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\Informes.csproj.CoreCompileInputs.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\Informes.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\refint\Informes.dll
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\Informes.pdb
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\Informes.genruntimeconfig.cache
+C:\Users\granm\Videos\Pruebas\Pruebas Konecta\.Net\Informes\obj\Debug\net8.0\ref\Informes.dll

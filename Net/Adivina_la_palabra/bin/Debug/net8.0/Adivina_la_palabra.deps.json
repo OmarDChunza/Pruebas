@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Adivina_la_palabra/1.0.0": {
+        "runtime": {
+          "Adivina_la_palabra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adivina_la_palabra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
